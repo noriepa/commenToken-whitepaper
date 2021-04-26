@@ -5,7 +5,7 @@ _**financialization of pontification**_
 
 Author: _[babachaga](https://twitter.com/babachaga)_
 
-Version: _0.0_
+Version: _0.1_
 
 Last update: _Apr 26th 2021_
 
