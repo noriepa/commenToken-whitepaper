@@ -3,7 +3,7 @@
 
 _**financialization of pontification**_
 
-Author: _[babachaga](https://twitter.com/babachaga)_
+Author: _[babachaga](https://twitter.com/babachaga)_ for _[NUSAINQ](https://nusainq.com/)_
 
 Version: _0.1_
 
